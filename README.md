@@ -3,7 +3,7 @@ ccolaborative game for the hackaton
 
 `Virtual reality downhill skiing`
 
-## Using `Unreal Engine 4.21` and C++
+### Using `Unreal Engine 4.21` and `C++`
 
 ![alt text][ski]
 
